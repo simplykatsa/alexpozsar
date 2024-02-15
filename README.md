@@ -2,6 +2,8 @@
 
 ## About Me
 
+![Alex Pozsár](./alexpfp.png)
+
 Hello! I'm Alex Pozsár, a Senior Technical Writer & Documentation Specialist based in Hungary. I have over 6 years of experience in crafting documentation and working with diverse content. My expertise lies in creating end-user documentation, developer guides, training materials, and case studies to enhance user experience and understanding. 📚✍️
 
 Currently, I'm a Documentation Specialist at platformOS, contributing to DocsKit and writing user guides for customer projects. In my prior role as a Lead Technical Writer at Pronovix, I spearheaded documentation creation for the Zero Gravity Developer Portal and Drupal-based developer portals, showcasing leadership in process establishment, team mentoring, and fostering collaboration.
